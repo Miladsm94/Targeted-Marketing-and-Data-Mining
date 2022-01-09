@@ -9,7 +9,7 @@ In this project, it is desired to illustrate how analyzing the information from 
 - Portuguese_banking.xlsx included the dataset for the past marketing campaign.
 
 ### Summary of the results
-The results show that the customers' response to the offer can be predicted with up to 92% accuracy. Consequently, the potential customers can be shortlisted prior to making the phone call to reduce the costs associated with the marketing campaign.
+The results show that the customers' response to the offer can be predicted with up to 93% accuracy. Consequently, the potential customers can be shortlisted prior to making the phone call to reduce the costs associated with the marketing campaign.
 
 ### Acknowledgments
 I would like to thank UCI Machine Learning Respository for making the dataset available to public.
